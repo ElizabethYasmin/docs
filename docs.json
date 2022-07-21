@@ -8,4 +8,10 @@
     "apiKey": "...",
     "indexName": "..."
   }
+  {
+  "sidebar": [
+    ["Example", "/example"],
+    ["Section Title", [["Nested Title", "/nested-example"]]]
+  ]
+  }
 }
