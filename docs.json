@@ -9,7 +9,7 @@
     "indexName": "..."
   },
   "sidebar": [
-    ["Example", "/example"],
-    ["Section Title", [["Nested Title", "/nested-example"]]]
+    ["Ayphu.com", "https://ayphu.com"],
+    ["Paginas internas", [["Word", "/word"], "Cusco", "/cusco"]]
   ]
 }
