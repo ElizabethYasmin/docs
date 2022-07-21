@@ -11,6 +11,7 @@
   "sidebar": [
     ["Ayphu.com", "https://ayphu.com"],
     ["Word", "/word"],
-    ["Cusco", "/cusco"]
+    ["Cusco", "/cusco"],
+    ["Tutoriales", "/tutoriales"]
   ]
 }
