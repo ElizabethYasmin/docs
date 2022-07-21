@@ -10,6 +10,7 @@
   },
   "sidebar": [
     ["Ayphu.com", "https://ayphu.com"],
-    ["Paginas internas", [["Word", "/word"], "Cusco", "/cusco"]]
+    ["Word", "/word"],
+    ["Cusco", "/cusco"]
   ]
 }
