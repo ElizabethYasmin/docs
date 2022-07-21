@@ -7,7 +7,7 @@
     "appId": "...",
     "apiKey": "...",
     "indexName": "..."
-  }
+  },
   {
   "sidebar": [
     ["Example", "/example"],
