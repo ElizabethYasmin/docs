@@ -1,8 +1,9 @@
 {
-  "name": "Documentación de Ayphu",
+  "name": "Ayphu",
   "theme": "#ab47bc",
-  "favicon": "/assets/favicon.ico",
-  "logo": "https://mycdn.com/awesome-logo.png",
+  "twitter": "ayphucloud",
+  "favicon": "/assets/favicon.png",
+  "logo": "/assets/logo.png",
   "docsearch": {
     "appId": "...",
     "apiKey": "...",
